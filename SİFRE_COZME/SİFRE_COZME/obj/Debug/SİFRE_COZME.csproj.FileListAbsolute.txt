@@ -1,0 +1,10 @@
+C:\Users\btk02\source\repos\SİFRE_COZME\SİFRE_COZME\bin\Debug\SİFRE_COZME.exe.config
+C:\Users\btk02\source\repos\SİFRE_COZME\SİFRE_COZME\bin\Debug\SİFRE_COZME.exe
+C:\Users\btk02\source\repos\SİFRE_COZME\SİFRE_COZME\bin\Debug\SİFRE_COZME.pdb
+C:\Users\btk02\source\repos\SİFRE_COZME\SİFRE_COZME\obj\Debug\SİFRE_COZME.csproj.AssemblyReference.cache
+C:\Users\btk02\source\repos\SİFRE_COZME\SİFRE_COZME\obj\Debug\SİFRE_COZME.Form1.resources
+C:\Users\btk02\source\repos\SİFRE_COZME\SİFRE_COZME\obj\Debug\SİFRE_COZME.Properties.Resources.resources
+C:\Users\btk02\source\repos\SİFRE_COZME\SİFRE_COZME\obj\Debug\SİFRE_COZME.csproj.GenerateResource.cache
+C:\Users\btk02\source\repos\SİFRE_COZME\SİFRE_COZME\obj\Debug\SİFRE_COZME.csproj.CoreCompileInputs.cache
+C:\Users\btk02\source\repos\SİFRE_COZME\SİFRE_COZME\obj\Debug\SİFRE_COZME.exe
+C:\Users\btk02\source\repos\SİFRE_COZME\SİFRE_COZME\obj\Debug\SİFRE_COZME.pdb
